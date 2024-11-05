@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MatterYouthTelemedicalPortal/static/css/main.1204c737.css",
+    "main.js": "/MatterYouthTelemedicalPortal/static/js/main.6dd62797.js",
+    "static/js/453.419a5d54.chunk.js": "/MatterYouthTelemedicalPortal/static/js/453.419a5d54.chunk.js",
+    "static/media/image1.jpg": "/MatterYouthTelemedicalPortal/static/media/image1.b5a49c6e47de187d21fe.jpg",
+    "index.html": "/MatterYouthTelemedicalPortal/index.html",
+    "main.1204c737.css.map": "/MatterYouthTelemedicalPortal/static/css/main.1204c737.css.map",
+    "main.6dd62797.js.map": "/MatterYouthTelemedicalPortal/static/js/main.6dd62797.js.map",
+    "453.419a5d54.chunk.js.map": "/MatterYouthTelemedicalPortal/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1204c737.css",
+    "static/js/main.6dd62797.js"
+  ]
+}
